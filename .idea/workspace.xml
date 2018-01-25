@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1418bd3c-676b-46d8-a338-a3051a0623da" name="Default" comment="">
+    <list default="true" id="1418bd3c-676b-46d8-a338-a3051a0623da" name="Default" comment="brach testing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/22 - Recreating Codepen/codepen-START.html" afterPath="$PROJECT_DIR$/22 - Recreating Codepen/codepen-START.html" />
     </list>
@@ -17,8 +17,8 @@
       <file leaf-file-name="codepen-START.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/22 - Recreating Codepen/codepen-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="222" column="30" lean-forward="true" selection-start-line="222" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+            <state relative-caret-position="578">
+              <caret line="224" column="36" lean-forward="false" selection-start-line="224" selection-start-column="36" selection-end-line="224" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -165,7 +165,7 @@
       <workItem from="1516810749572" duration="4063000" />
       <workItem from="1516867354354" duration="5269000" />
       <workItem from="1516891854599" duration="870000" />
-      <workItem from="1516893024761" duration="115000" />
+      <workItem from="1516893024761" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="gitgub testing">
       <created>1516893066981</created>
@@ -174,11 +174,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516893066981</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="brach testing">
+      <created>1516893190757</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516893190757</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10317000" />
+    <option name="totallyTimeSpent" value="10507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -249,7 +256,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitgub testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitgub testing" />
+    <MESSAGE value="brach testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="brach testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -353,8 +361,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/22 - Recreating Codepen/codepen-START.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="222" column="30" lean-forward="true" selection-start-line="222" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+        <state relative-caret-position="578">
+          <caret line="224" column="36" lean-forward="false" selection-start-line="224" selection-start-column="36" selection-end-line="224" selection-end-column="36" />
           <folding />
         </state>
       </provider>
